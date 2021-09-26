@@ -60,7 +60,7 @@ form {
   font-family: hind;
   font-size: 15px;
   padding: 13px 10px;
-  margin: 3px;
+  margin: 3px auto;
   background-color: rgba(175, 134, 187, 0.15);
   border-width: 0px ;
   border-radius: 1px;
@@ -88,7 +88,7 @@ button {
   font-size: 15px;
   letter-spacing: 0.7px;
   padding: 13px 10px;
-  margin: 3px;
+  margin: 3px 0px;
   background-color:#6B5E72;
   color: #EEEEEE;
   border: 0px;
