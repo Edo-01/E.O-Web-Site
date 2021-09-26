@@ -147,7 +147,7 @@ label a {
  .prima-linea input,
  .seconda-linea input,
  textarea {
-   margin:5px ;
+     margin:5px 3px;
  }
  textarea {
    margin:5px auto ;
@@ -167,6 +167,8 @@ label a {
    min-width: 350px;
 
  }
+
+
 }
 
 /*tablet*/
@@ -182,10 +184,12 @@ label a {
  .prima-linea input,
  .seconda-linea input,
  textarea {
-   margin:5px;
+   margin:5px 3px;
  }
  .prima-linea input,
  .seconda-linea input {
    padding: 13px 10px;
  }
+
+
 }
